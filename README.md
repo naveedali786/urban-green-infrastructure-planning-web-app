@@ -21,5 +21,5 @@ The Zoning Distracts Futhr Classifcation like
 ![Update Change](https://github.com/naveedali786/urban-green-infrastructure-planning-web-app/assets/106032776/aeab1459-3893-4261-a25e-ada775a1d960)
 
 --- ---
-## **WEb Map**
+## **Web Map**
 ![Web Map](https://github.com/naveedali786/urban-green-infrastructure-planning-web-app/assets/106032776/933289e6-53d0-4ad6-b9b1-9db5c7625183)
