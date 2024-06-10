@@ -17,4 +17,4 @@ The Zoning Distracts Futhr Classifcation like
 - **Special Purpose:** (Urban Growth Boundary, Planned Development, Parks and Recreation, Open Space Agricultural ..etc)
 --- ---
 ## **Zoning Map**
-![Map](file:///C:/Users/Muhammad%20Naveed/Downloads/Raster/Update%20Change.png)
+![Map](Maps/Update Change.png)
