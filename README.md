@@ -4,6 +4,8 @@
 The Web map was created for urban planning and visualization of the zoning of Areas like Green Space, open space agricultural land, etc. This Web Map Demonstration Also helps understand the sunrise and population of U.S. cities. 
 
 This Web Map Design for Urban Green Infrastructure Planning US City San Ramon. This web map can help the stakeholder and user visualize the parcel on a basic zoning District area. This web Map uses Three Types of Data Dataset 
+
+[Web Map Link](https://naveedali786.github.io/urban-green-infrastructure-planning-web-app/)
 --- ---
 ## **About Data & Source**
 - **U.S City Population Data**  [Data Link](https://github.com/umass-gis/workshops/blob/main/content/web-map/data/sunlight_datapack.zip)
@@ -23,3 +25,4 @@ The Zoning Distracts Futhr Classifcation like
 --- ---
 ## **Web Map**
 ![Web Map](https://github.com/naveedali786/urban-green-infrastructure-planning-web-app/assets/106032776/933289e6-53d0-4ad6-b9b1-9db5c7625183)
+
